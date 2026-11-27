@@ -61,7 +61,7 @@ After processing the attempts, the daemon matched the valid 4-digit PIN, printed
 ---
 
 ## Flag / Password Found
-* **Bandit25 Password:** `SoH1gMOEqIX2IYKvcIzxvgoR9a2Djx4P` *(verify exact character casing directly from your terminal)*
+* **Bandit25 Password:** `SoH1gMOEqIX2IYKvcIzxvgoR9a2Djx4P` 
 
 ## What I Learned
 * How to use **Bash brace expansion (`{0..9}{0..9}{0..9}{0..9}`)** to quickly generate zero-padded 4-digit numeric wordlists (`0000`–`9999`).
